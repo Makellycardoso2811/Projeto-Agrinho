@@ -22,6 +22,7 @@ Esse site é para o projeto Agrinho, que tem como tema Gastronomia.
    Hitória;
    # Rodapé
    Email;
+
    Direito.
    # Licença
    Este projeto está licenciado sob a MIT Licence, permitindo uso, modificação e distribuição livre, vom os devidos créditos.
