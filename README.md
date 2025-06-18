@@ -26,6 +26,6 @@ Esse site é para o projeto Agrinho, que tem como tema Gastronomia.
    # Rodapé
    Email: Kupsel.makelly@escola.pr.gov.br
 
-   Direito.
+   Direito.# Agrinho 2025
    # Licença
    Este projeto está licenciado sob a MIT Licence, permitindo uso, modificação e distribuição livre, vom os devidos créditos.
