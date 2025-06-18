@@ -24,7 +24,7 @@ Esse site é para o projeto Agrinho, que tem como tema Gastronomia.
 
    Hitória;
    # Rodapé
-   Email;
+   Email: Kupsel.makelly@escola.pr.gov.br
 
    Direito.
    # Licença
